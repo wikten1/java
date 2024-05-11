@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javaCore.introducaoClasses.dominio;
+package academy.devdojo.maratonajava.javaCore.AintroducaoClasses.dominio;
 
 public class estudante {
     public String nome;
